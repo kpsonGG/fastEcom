@@ -1,10 +1,8 @@
 ## NextFaster
 
-A highly performant e-commerce template using Next.js and AI generated content by [@ethanniser](https://x.com/ethanniser), [@RhysSullivan](https://x.com/RhysSullivan) and [@armans-code](https://x.com/ksw_arman)
+A highly performant e-commerce template using Next.js and AI generated content.
 
 ### Design notes
-
-**Check out the detailed [twitter thread](https://x.com/ethanniser/status/1848442738204643330)**
 
 - Uses [Next.js 15](https://nextjs.org/)
   - All mutations are done via [Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations)
